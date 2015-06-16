@@ -1,2 +1,8 @@
 # plan
+
+
 GittHubのプラン
+
+##メンバー
+
+*planmember
